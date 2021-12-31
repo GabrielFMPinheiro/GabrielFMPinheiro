@@ -1,3 +1,5 @@
+<img align="right" width="300em" src="https://www.codewars.com/users/GabrielFMPinheiro/badges/large"/>
+
 ### Hi there, My name is Gabriel!
 
 ### Welcome to my GitHub! 👋
@@ -11,15 +13,15 @@
 - 🎯 Studying to be a Software Engineer at <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
 
 ##
+
 ### My Activities summary
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFMPinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFMPinheiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
- ### Main languages
+ </div>
+    
+### Main languages
 <div style="display: inline_block">
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
