@@ -1,5 +1,3 @@
-<img align="right" width="300em" src="https://www.codewars.com/users/GabrielFMPinheiro/badges/large"/>
-
 ### Hi there, My name is Gabriel!
 
 ### Welcome to my GitHub! 👋
