@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-- 👨 I'm 24
+- 👨 I'm 25
 - 📓 Graduated in production engineering by <a href = "https://www.ifes.edu.br/" target="_blank">IFES</a>
 - 🎯 Studying to be a Software Engineer at <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
 
